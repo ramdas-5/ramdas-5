@@ -142,14 +142,10 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ramdas-5&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true" width="450" alt="GitHub Stats (including total contributions)" />
-      <br />
-      <sub>✨ Total Contributions shown in the stats card above.</sub>
+      <img src="https://raw.githubusercontent.com/ramdas-5/ramdas-5/main/assets/metrics.svg" width="450" alt="GitHub Metrics" />
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramdas-5&theme=radical&hide_border=true" width="450" alt="Current Streak" />
-      <br />
-      <sub>🔥 Current streak: Jan 20 – Mar 5 (example date)</sub>
     </td>
   </tr>
 </table>
