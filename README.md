@@ -16,7 +16,7 @@
 <a href="https://ramdas-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/🌐_Portfolio-00F5D4?style=for-the-badge&logoColor=black&color=101827" alt="Portfolio" />
 </a>
-<a href="www.linkedin.com/in/dev-ramdas-">
+<a href="linkedin.com/in/dev-ramdas-">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:ramdashembram05@gmail.com">
