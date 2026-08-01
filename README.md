@@ -19,8 +19,8 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **Diploma in Computer Science & Technology** (2023 – 2026) — *Completed*
 - 📚 Currently pursuing **B.Tech in Computer Science & Engineering**
+- 🎓 **Diploma in Computer Science & Technology** (2023 – 2026)
 - 💼 **Data Annotator** @ Pripton Innovation (3 months)
 - 🌱 I’m currently learning **Next.js, TypeScript & Cloud Deployment**
 - 💬 Ask me about **MERN Stack, Java, Python, or Data Annotation**
