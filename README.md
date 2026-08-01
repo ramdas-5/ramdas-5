@@ -68,14 +68,7 @@
 
 ## 📈 GitHub Stats & Graphs
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramdas-5&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ramdas's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramdas-5&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramdas-5&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ramdas-5&show_icons=true&theme=midnight-purple)
 
 ---
 
